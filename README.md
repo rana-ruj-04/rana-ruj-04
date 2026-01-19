@@ -2,9 +2,7 @@
 
 Email Me 👉 ✉️ **ranaruj2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-👨‍🎓👨‍🎓 I am a student of **Gurunanak Institute of Technology**.
-I am focused on learning, improving my skills,
-and building a strong academic and professional foundation for my future career 👨‍🎓👨‍🎓
+👨‍🎓👨‍🎓 I am currently pursuing **B.Tech** in **Computer Science and Engineering** at **Gurunanak Institute of Technology**. I am interested in learning core computer science concepts and developing my technical and problem-solving skills. I am motivated, disciplined, and focused on building a strong foundation for my future career in the technology field 👨‍🎓👨‍🎓
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rana-ruj-04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
