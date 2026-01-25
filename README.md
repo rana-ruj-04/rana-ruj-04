@@ -37,8 +37,7 @@ Email Me 👉 ✉️ **ranaruj2004@gmail.com** For Collaboration/Project or Anyt
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[<img src="https://github.com/ritikm31/ritikm31" alt="Lx" border="0">]()
-
+![img alt](https://github.com/rana-ruj-04/rana-ruj-04/blob/edc2d07bb3295f910fc336cdfb30d2a86aa6f7ad/img1.gif).
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rana-ruj-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
