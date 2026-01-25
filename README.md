@@ -1,6 +1,20 @@
-💫 Hi 👋, I'm Rana Ruj
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
+<h1 align="center">Hi 👋, I'm Rana Ruj </h1>
+<h3 align="center">🚀A passionate Web developer🚀</h3>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Passionate+about+Web+Development+%F0%9F%8C%90;Learning+Cloud+%26+Machine+Learning+%F0%9F%92%BB;Building+Open+Source+Projects+%E2%9C%A8;Always+Eager+to+Learn+More!+%F0%9F%91%8D" alt="Typing SVG" />
+</div>
+
+**A passionate Web Devoloper || from India**
 
 Email Me 👉 ✉️ **ranaruj2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** backend and database 
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** ranaruj2004@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 👨‍🎓👨‍🎓 I am currently pursuing **B.Tech** in **Computer Science and Engineering** at **Gurunanak Institute of Technology**. I am interested in learning core computer science concepts and developing my technical and problem-solving skills. I am motivated, disciplined, and focused on building a strong foundation for my future career in the technology field 👨‍🎓👨‍🎓
 
@@ -21,7 +35,11 @@ Email Me 👉 ✉️ **ranaruj2004@gmail.com** For Collaboration/Project or Anyt
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+[<img src="https://github.com/ritikm31/ritikm31" alt="Lx" border="0">]()
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rana-ruj-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rana-ruj-04&theme=dark&hide_border=false)<br/>
