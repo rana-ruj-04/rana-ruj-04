@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **ranaruj2004@gmail.com** For Collaboration/Project or Anyt
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/00___rana___04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-ruj-491557341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranaruj2004@gmail.com)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://x.com/RANARUJ7866) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/00___rana___04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-ruj-491557341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranaruj2004@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-%239146FF.svg?logo=Twitter&logoColor=white)](https://Twitter.tv/https://x.com/RANARUJ7866) 
 
 
 <!-- Snake Game Repo View -->
